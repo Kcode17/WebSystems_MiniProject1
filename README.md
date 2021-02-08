@@ -22,7 +22,7 @@
 ## Sources
 #### Data collected from following websities
 - [W3Schools Git Tutorial](https://www.w3schools.com/whatis/whatis_github.asp "W3Schools")
-- [Atlassian Git Tutorial](https://www.w3schools.com/whatis/whatis_github.asp "Atlassian")
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials "Atlassian")
 - [Guru99 Automated Testing](https://www.guru99.com/automation-testing.html "Guru99")
 - [NerveCode Continous Integration Article](https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/ "NerveCode")
 - [Git Docs](https://git-scm.com/docs/ "Git Docs")
