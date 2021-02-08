@@ -7,4 +7,5 @@
 - ### [Fork](/Fork.md)
 - ### [Branch](/Branch.md)
 - ### [Commit](/Commit.md)
+- ### [Merge](/Merge.md)
 - ### [Checkout](/Checkout.md)
