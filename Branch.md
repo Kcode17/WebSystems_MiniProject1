@@ -7,7 +7,7 @@ The git branch command lets you create, list, rename, and delete branches.
 
 ### Branch Commands
 - #### List all the branches in the repository
-	git branch
+		git branch
 	
 ![Git_Branch](/Images/branches.PNG)
 	
