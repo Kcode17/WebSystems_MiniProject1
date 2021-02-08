@@ -16,3 +16,8 @@ There are two kinds of testing in the world of software—manual and automated. 
 Test automation is the practice of running tests automatically, managing test data, and utilizing results to improve software quality.
 
 Selenium, Appium, Cucumber are few automation testing tools used in the industry. 
+
+### Continuous Integration
+Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It’s a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run. Automated tools are used to assert the new code’s correctness before integration.
+A source code version control system is the crux of the CI process. The version control system is also supplemented with other checks like automated code quality tests, syntax style review tools, and more.
+CI is generally used alongside an agile software development workflow. An organization will compile list of tasks that comprise a product roadmap. These tasks are then distributed amongst software engineering team members for delivery. Using CI enables these software development tasks to be developed independently and in parallel amongst the assigned developers. Once one of these tasks is complete, a developer will introduce that new work to the CI system to be integrated with the rest of the project.
