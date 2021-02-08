@@ -6,4 +6,5 @@
 - ### [Clone](/Clone.md)
 - ### [Fork](/Fork.md)
 - ### [Branch](/Branch.md)
+- ### [Commit](/Commit.md)
 - ### [Checkout](/Checkout.md)
