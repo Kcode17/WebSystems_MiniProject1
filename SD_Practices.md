@@ -1,6 +1,6 @@
 # WebSystems_MiniProject1
 
-# How software development companies benefit from using Git, Docker, automated testing, and continuous integration?
+# How software development companies benefit from using Git, Docker, Automated Testing, and Continuous Integration?
 
 ## Let's explore about these terms
 
@@ -22,7 +22,7 @@ Continuous integration (CI) is the practice of automating the integration of cod
 A source code version control system is the crux of the CI process. The version control system is also supplemented with other checks like automated code quality tests, syntax style review tools, and more.
 CI is generally used alongside an agile software development workflow. An organization will compile list of tasks that comprise a product roadmap. These tasks are then distributed amongst software engineering team members for delivery. Using CI enables these software development tasks to be developed independently and in parallel amongst the assigned developers. Once one of these tasks is complete, a developer will introduce that new work to the CI system to be integrated with the rest of the project.
 
-## How these technologies improve Software development companies
+## How these technologies improve software development
 #### Efficient and Collaborative Development
 Using Version control systems like git, helps developers to work collaboratively. It’s features like security and back up mechanisms help them to work efficiently with each other, thereby increasing the efficiency of the team.
 
