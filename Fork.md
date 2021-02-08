@@ -11,3 +11,11 @@ To integrate the feature into the official codebase, the maintainer pulls the co
 ### Fork option on github
 
 ![Git_Fork](/Images/fork_option.PNG)
+
+### Steps to Fork
+- #### Go to a repository that you want to fork
+- #### Click on Fork option
+- #### Work on the obtained files
+- #### Raise a pull request to request for code merge
+- #### After reviewing code
+- #### Code changes will be merged to the forked/primary repository
