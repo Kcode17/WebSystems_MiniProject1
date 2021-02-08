@@ -1,8 +1,8 @@
 ## Git checkout
 
 The git checkout command lets you point to the current branch among the branches created using the git branch. Git will record all new commits on that branch. Git checkout gives us the freedom to point the HEAD to a branch quickly.
-#### For example there are two branches main and new.
-#### step1: HEAD is pointing to main branch
+#### For example there are two branches main and new. Steps to checkout a branch.
+#### Step 1: HEAD is pointing to main branch
 
 ![GitHub Logo](./Images/1.png)
 
@@ -13,3 +13,7 @@ The git checkout command lets you point to the current branch among the branches
 #### For coding you need to use command git checkout branch-name to point HEAD at that branch.
 
 ![GitHub Logo](./Images/3.png)
+
+### In Github branch dropdown shows all the branches in the repository
+
+![GitHub Logo](./Images/4.png)
