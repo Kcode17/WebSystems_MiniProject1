@@ -9,8 +9,8 @@
 
 ### Steps to clone a repository
 	- #### Copy the repository link from github
-	![Git_Clone_Link](/Images/clone_link.PNG)
+![Git_Clone_Link](/Images/clone_link.PNG)
 	- #### Run the git clone command from the local system where you want to clone the repository
 		git clone https://github.com/Kcode17/YourFirstRepo.git
 	- #### Repository should be cloned and the files should appear in the repsective folder
-	![Git_Clone_Output](/Images/clone_output.PNG)
+![Git_Clone_Output](/Images/clone_output.PNG)
