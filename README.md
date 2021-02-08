@@ -5,3 +5,4 @@
 - ### [Repository](/Repository.md)
 - ### [Clone](/Clone.md)
 - ### [Fork](/Fork.md)
+- ### [Checkout](/Checkout.md)
