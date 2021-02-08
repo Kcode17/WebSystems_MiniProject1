@@ -4,7 +4,7 @@ A repository contains all of your project's files and each file's revision histo
 ### Steps to create:
 - #### Go to github.com
 - #### Create an account – you can get started for free!
-![Git_SignUp](/Images/sign_up.png)
+![Git_SignUp](/Images/sign_up.PNG)
 - #### Login to the account
 - #### Click on + icon to create a new repository
 ![Git_NewRepo](/Images/new_repo.png)
