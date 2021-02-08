@@ -11,4 +11,4 @@ For example :
 
 2) After committing once the master branch will move to point the most recent commit c2.
 
-[main is pointing c2](./Images/c2.png)
+[main is pointing c2](./Images/new123.png)
