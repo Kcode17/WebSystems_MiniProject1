@@ -5,6 +5,7 @@
 ![pull](./Images/5.png)
 
 - Git pull is considered unsafe when compared to `fetch` command because `pull` command will try to alter information in local to identical to remote. This may sometimes cause problems.
+
 -The git pull command is actually a combination of two other commands, `git fetch` followed by `git merge`
 
 ---
