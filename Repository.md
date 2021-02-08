@@ -19,5 +19,6 @@ A repository contains all of your project's files and each file's revision histo
 	- #### MIT License is the go to license
 ![Git_NewRepo_steps](/Images/steps.png)
 - ### Click on Create Repository 
+- ### Below image shows the created repository
 ![Git_NewRepo_Name](/Images/first_repo.png)
 
