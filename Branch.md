@@ -6,16 +6,16 @@ A branch represents an independent line of development. Branches serve as an abs
 The git branch command lets you create, list, rename, and delete branches.
 
 ### Branch Commands
-List all the branches in the repository
+- ####List all the branches in the repository
 	git branch
 	
 ![Git_Branch](/Images/branches.PNG)
 	
-Create a new branch feature_1
+- ####Create a new branch feature_1
 	git branch feature_1
 	
-Delete the feature_1 branch,provided all the changes are merged back to the main
+- ####Delete the feature_1 branch,provided all the changes are merged back to the main
 	git branch -d feature_1
 	
-Force delete the branch feature_1, irrespecitve of changes being merged back or not
+- ####Force delete the branch feature_1, irrespecitve of changes being merged back or not
 	git branch -D feature_1
