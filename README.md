@@ -1,5 +1,6 @@
 ## WebSystems_MiniProject1
 
+### Description
 #### Project goal is to explore and find the benefits of Git,Docker,Automated Testing and Continuous Integration in software developement.
 #### Work with a teammate collabratively using git and leverage markdown to create various pages about given git commands.
 
@@ -26,4 +27,7 @@
 - [Guru99 Automated Testing](https://www.guru99.com/automation-testing.html "Guru99")
 - [NerveCode Continous Integration Article](https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/ "NerveCode")
 - [Git Docs](https://git-scm.com/docs/ "Git Docs")
+
+## Changelog
+- [Project changelog](/Changelog.md)
 
