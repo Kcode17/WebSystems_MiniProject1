@@ -10,9 +10,13 @@ The git checkout command lets you point to the current branch among the branches
 
 ![GitHub Logo](./Images/2.png)
 
+---
+
 #### For coding you need to use command git checkout branch-name to point HEAD at that branch.
 
 ![GitHub Logo](./Images/3.png)
+
+---
 
 ### In Github branch dropdown shows all the branches in the repository
 
