@@ -1,6 +1,10 @@
 ## WebSystems_MiniProject1
 
+#### Project goal is to explore and find the benefits of Git,Docker,Automated Testing and Continuous Integration in software developement.
+#### Work with a teammate collabratively using git and leverage markdown to create various pages about given git commands.
+
 ## Contents
+<<<<<<< HEAD
 - ### [Role of Git, Docker, Automated Testing, Continuous Integration in Software Development](/SD_Practices.md)
 - ### [Repository](/Repository.md)
 - ### [Clone](/Clone.md)
@@ -8,3 +12,29 @@
 - ### [Branch](/Branch.md)
 - ### [Commit](/Commit.md)
 - ### [Checkout](/Checkout.md)
+- ### [Push](/Push.md)
+- ### [Pull](/Pull.md)
+=======
+1. ### [Role of Git, Docker, Automated Testing, Continuous Integration in Software Development](/SD_Practices.md)
+2. ### [Repository](/Repository.md)
+3. ### [Clone](/Clone.md)
+4. ### [Fork](/Fork.md)
+5. ### [Branch](/Branch.md)
+6. ### [Commit](/Commit.md)
+7. ### [Merge](/Merge.md)
+8. ### [Checkout](/Checkout.md)
+9. ### [Push](/Push.md)
+10. ### [Pull](/Pull.md)
+
+## Team Members
+- ### Sri Siva Krishna Teja Oguri
+- ### Harish Naricchetty
+
+## Sources
+#### Data collected from following websities
+- [W3Schools Git Tutorial](https://www.w3schools.com/whatis/whatis_github.asp "W3Schools")
+- [Atlassian Git Tutorial](https://www.w3schools.com/whatis/whatis_github.asp "Atlassian")
+- [Guru99 Automated Testing](https://www.guru99.com/automation-testing.html "Guru99")
+- [NerveCode Continous Integration Article](https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/ "NerveCode")
+- [Git Docs](https://git-scm.com/docs/ "Git Docs")
+>>>>>>> ffa7f59107adcc57662609c6e401a3a0ef855283
