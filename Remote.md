@@ -29,3 +29,16 @@ Adds a record to ./.git/config for remote named at the repository url.
 #### **TREMOVE or RM <NAME>**
 Modifies ./.git/config and removes the remote named . All remote-tracking branches and configuration settings for the remote are removed.
 ![remote remove](./Images/Remote_remove.png)
+
+---
+
+## show
+
+#### If you want to see more information about a particular remote, you can use the git remote show <remote> command. If you run this command with a particular shortname, such as origin
+
+##### **SHOW <NAME>**
+Outputs high-level information about the remote .
+
+![remote show](./Images/remote_show.png)
+
+#### It lists the URL for the remote repository as well as the tracking branch information. The command tells you that if you’re on the master branch and you run git pull, it will automatically merge in the master branch on the remote after it fetches all the remote references. It also lists all the remote references it has pulled down from the git.
