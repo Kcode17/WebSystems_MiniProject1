@@ -1,6 +1,6 @@
-## WebSystems_MiniProject1
+# WebSystems_MiniProject1
 
-### Description
+## Description
 #### Project goal is to explore and find the benefits of Git,Docker,Automated Testing and Continuous Integration in software developement.
 #### Work with a teammate collabratively using git and leverage markdown to create various pages about given git commands.
 
@@ -15,6 +15,10 @@
 8. ### [Checkout](/Checkout.md)
 9. ### [Push](/push.md)
 10. ### [Pull](/pull.md)
+11. ### [Remote Add / Remove / Show](/Remote.md)
+12. ### [Status](/Status.md)
+13. ### [Master Branch](/Master.md)
+14. ### [Gitflow workflow](/Gitflow.md)
 
 ## Team Members
 - ### Sri Siva Krishna Teja Oguri
