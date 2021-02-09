@@ -13,7 +13,7 @@ Example: We have a Feature branch based off master branch, after some developmen
 
 #### Following is the basic merge workflow using git commands
 
-- #### Create a New feature branch
+- #### Create a new branch
 		git branch Feature_1
 		
 - #### Checkout the new branch, so you can add code/content to this branch 
@@ -29,4 +29,4 @@ Example: We have a Feature branch based off master branch, after some developmen
 		git checkout master
 		git merge Feature_1
 		
-- #### Verify the master branch in the repository, changes from feature_1 should be present in master
+- #### Verify the master branch in the repository, changes from feature_1 branch should be present in master
