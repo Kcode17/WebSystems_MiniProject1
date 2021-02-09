@@ -1,24 +1,24 @@
 # WebSystems_MiniProject1
 
 ## Description
-#### Project goal is to explore and find the benefits of Git,Docker,Automated Testing and Continuous Integration in software developement.
-#### Work with a teammate collabratively using git and leverage markdown to create various pages about given git commands.
+### Project goal is to explore and find the benefits of Git,Docker,Automated Testing and Continuous Integration in software developement.
+### Work with a teammate collabratively using git and leverage markdown to create various pages about given git commands.
 
 ## Contents
 1. ### [Role of Git, Docker, Automated Testing, Continuous Integration in Software Development](/SD_Practices.md)
-2. ### [Repository](/Repository.md)
-3. ### [Clone](/Clone.md)
-4. ### [Fork](/Fork.md)
-5. ### [Branch](/Branch.md)
-6. ### [Commit](/Commit.md)
-7. ### [Merge](/Merge.md)
-8. ### [Checkout](/Checkout.md)
-9. ### [Push](/push.md)
-10. ### [Pull](/pull.md)
-11. ### [Remote Add / Remove / Show](/Remote.md)
-12. ### [Status](/Status.md)
-13. ### [Master Branch](/Master.md)
-14. ### [Gitflow workflow](/Gitflow.md)
+2. ### [Gitflow workflow](/Gitflow.md)
+3. ### [Repository](/Repository.md)
+4. ### [Clone](/Clone.md)
+5. ### [Fork](/Fork.md)
+6. ### [Branch](/Branch.md)
+7. ### [Commit](/Commit.md)
+8. ### [Merge](/Merge.md)
+9. ### [Checkout](/Checkout.md)
+10. ### [Push](/push.md)
+11. ### [Pull](/pull.md)
+12. ### [Remote Add / Remove / Show](/Remote.md)
+13. ### [Status](/Status.md)
+14. ### [Master Branch](/Master.md)
 
 ## Team Members
 - ### Sri Siva Krishna Teja Oguri
