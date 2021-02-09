@@ -35,6 +35,7 @@ Switched to a new branch 'release/0.1.0''
 ![g7](./Images/g7.png)
 
 - Once the release is ready to ship, it will get merged it into master and develop, then the release branch will be deleted. It’s important to merge back into develop because critical updates may have been added to the release branch and they need to be accessible to new features.
+
 ![g8](./Images/g8.png)
 ![g9](./Images/g9.png)
 
