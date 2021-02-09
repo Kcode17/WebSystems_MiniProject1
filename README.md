@@ -19,7 +19,6 @@
 12. ### [Remote Add / Remove / Show](/Remote.md)
 13. ### [Status](/Status.md)
 14. ### [Master Branch](/Master.md)
-15. ### [Gitflow workflow](/Gitflow.md)
 
 ## Team Members
 - ### Sri Siva Krishna Teja Oguri
