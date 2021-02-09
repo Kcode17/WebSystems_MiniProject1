@@ -9,24 +9,24 @@ Example: We have a Feature branch based off master branch, after some developmen
 
 ![Git_merge_2](/Images/merge_2.png)
 
-#### Git merge workflow
+### Git merge workflow
 
-##### Following is the basic merge workflow using git commands
+#### Following is the basic merge workflow using git commands
 
-- Create a New feature branch
+- #### Create a New feature branch
 		git branch Feature_1
-
-- Checkout the new branch, so you can add code/content to this branch 
+		
+- #### Checkout the new branch, so you can add code/content to this branch 
 		git checkout Feature_1
-	
-- Add code/content
+		
+- #### Add code/content
 
-- Stage and commit the files
+- #### Stage and commit the files
 		git add "created/edited_filename.extension"
 		git commit -m "Msg:Commited the Feature_1"
-
-- Checkout Master and merge the Feature_1 branch to it
+		
+- #### Checkout Master and merge the Feature_1 branch to it
 		git checkout master
 		git merge Feature_1
-	
-- Verify the master branch in the repository, changes from feature_1 should be present in master
+		
+- #### Verify the master branch in the repository, changes from feature_1 should be present in master
