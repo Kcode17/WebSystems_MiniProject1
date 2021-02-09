@@ -12,6 +12,12 @@
 - Steps and images for Repository
 - Feature Clone
 - Steps and images for Clone
+- Feature Checkout
+- Steps and images for Checkout
+- Feature Push
+- Steps and images for Push
+- Feature Pull
+- Steps and images for Pull
 
 ##### Changed
 - Fixed typos
@@ -29,6 +35,12 @@
 - Steps and images for Commit
 - Feature Merge
 - Steps and images for Merge
+- Feature Remote Add / Remove / Show
+- Steps and images for Remote Add / Remove / Show
+- Feature Status
+- Steps and images for Status
+- Feature Master Branch
+- Steps and images for Master Branch
 - Added changelog.md
 
 ##### Changed

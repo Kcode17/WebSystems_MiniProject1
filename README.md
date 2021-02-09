@@ -15,6 +15,10 @@
 8. ### [Checkout](/Checkout.md)
 9. ### [Push](/push.md)
 10. ### [Pull](/pull.md)
+11. ### [Remote Add / Remove / Show](/Remote.md)
+12. ### [Status](/Status.md)
+13. ### [Master Branch](/Master.md)
+14. ### [Gitflow workflow](/Gitflow.md)
 
 ## Team Members
 - ### Sri Siva Krishna Teja Oguri
