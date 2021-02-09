@@ -20,7 +20,7 @@ Adds a record to ./.git/config for remote named at the repository url.
 
 ---
 
-## Git Remove
+## Remote Remove
 
 #### Use the git remote rm command to remove a remote URL from your repository.
 #### The git remote rm command takes one argument:
@@ -32,7 +32,7 @@ Modifies ./.git/config and removes the remote named . All remote-tracking branch
 
 ---
 
-## show
+## Remote show
 
 #### If you want to see more information about a particular remote, you can use the git remote show <remote> command. If you run this command with a particular shortname, such as origin
 
