@@ -31,6 +31,7 @@
 - [Guru99 Automated Testing](https://www.guru99.com/automation-testing.html "Guru99")
 - [NerveCode Continous Integration Article](https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/ "NerveCode")
 - [Git Docs](https://git-scm.com/docs/ "Git Docs")
+- [learngitbranching](https://learngitbranching.js.org/)
 
 ## Changelog
 - [Project changelog](/Changelog.md)
