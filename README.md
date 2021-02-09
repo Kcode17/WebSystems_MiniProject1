@@ -1,6 +1,6 @@
-## WebSystems_MiniProject1
+# WebSystems_MiniProject1
 
-### Description
+## Description
 #### Project goal is to explore and find the benefits of Git,Docker,Automated Testing and Continuous Integration in software developement.
 #### Work with a teammate collabratively using git and leverage markdown to create various pages about given git commands.
 
